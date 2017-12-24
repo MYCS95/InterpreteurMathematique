@@ -1,0 +1,12 @@
+c:\users\mycs\documents\visual studio 2015\Projects\InterpreteurMathematique\InterpreteurMathematique\bin\Debug\InterpreteurMathematique.exe.config
+c:\users\mycs\documents\visual studio 2015\Projects\InterpreteurMathematique\InterpreteurMathematique\bin\Debug\InterpreteurMathematique.exe
+c:\users\mycs\documents\visual studio 2015\Projects\InterpreteurMathematique\InterpreteurMathematique\bin\Debug\InterpreteurMathematique.pdb
+c:\users\mycs\documents\visual studio 2015\Projects\InterpreteurMathematique\InterpreteurMathematique\obj\Debug\InterpreteurMathematique.csprojResolveAssemblyReference.cache
+c:\users\mycs\documents\visual studio 2015\Projects\InterpreteurMathematique\InterpreteurMathematique\obj\Debug\InterpreteurMathematique.exe
+c:\users\mycs\documents\visual studio 2015\Projects\InterpreteurMathematique\InterpreteurMathematique\obj\Debug\InterpreteurMathematique.pdb
+D:\Projects\InterpreteurMathematique\InterpreteurMathematique\bin\Debug\InterpreteurMathematique.exe.config
+D:\Projects\InterpreteurMathematique\InterpreteurMathematique\obj\Debug\InterpreteurMathematique.exe
+D:\Projects\InterpreteurMathematique\InterpreteurMathematique\obj\Debug\InterpreteurMathematique.pdb
+D:\Projects\InterpreteurMathematique\InterpreteurMathematique\obj\Debug\InterpreteurMathematique.csprojResolveAssemblyReference.cache
+D:\Projects\InterpreteurMathematique\InterpreteurMathematique\bin\Debug\InterpreteurMathematique.exe
+D:\Projects\InterpreteurMathematique\InterpreteurMathematique\bin\Debug\InterpreteurMathematique.pdb
